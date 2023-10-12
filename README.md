@@ -7,8 +7,17 @@ Besides that the playlist will be filled with Use Case Driven Videos that are al
 If you have any further questions please also make use of the [DQL discussion forum](https://dynatr.ac/3t2KJph)
 
 ## Use Case: Percentage of Data Distribution
+
 In this video, you'll learn to calculate the percentage of data distribution based on business events. [Access the Notebook from his Use Case on the Playground Teanant](https://dt-url.net/n903ahd)
 
 Watch the [Video on YouTube](https://www.youtube.com/watch?v=Lgv5rxlEJ0Q)
 
 [![Learn DQL by Use Case](https://img.youtube.com/vi/Lgv5rxlEJ0Q/0.jpg)](https://www.youtube.com/watch?v=Lgv5rxlEJ0Q)
+
+## Use Case: Problem Hotspots by App, Name or Any Other Tag
+
+In this video, you'll learn how you can find which area of your Kubernetes-based application has the most problems. [Access the Notebook from his Use Case on the Playground Teanant](https://dt-url.net/xj23afc)
+
+Watch the [Video on YouTube](https://www.youtube.com/watch?v=CtfzTGQWGko)
+
+[![Learn DQL by Use Case](https://img.youtube.com/vi/CtfzTGQWGko/0.jpg)](https://www.youtube.com/watch?v=CtfzTGQWGko)
